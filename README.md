@@ -11,4 +11,4 @@ In my free time, I like to build. Here's a few of my favourite open-source proje
 - [focus](https://github.com/ChetanXpro/focus): A CLI tool written in Rust to block distracting websites on the system level for a specific time and help stay focused.
 - [Short-video-automation](https://github.com/ChetanXpro/short-video-automation): A short content automation tool, which can generate short videos for youtube and instagram.
 - [askme](https://github.com/ChetanXpro/askme): A CLI tool written in Go to chat with your pdf data.
-- [Document-AI](https://github.com/ChetanXpro/Document-AI): A tool to extract structured data from a PDF, offering a good open-source alternative to Google's Document AI paid service.
+- [Document-AI](https://github.com/ChetanXpro/Document-AI): A tool to extract structured data from a PDF, offering a good open-source alternative to Google's Document AI.
