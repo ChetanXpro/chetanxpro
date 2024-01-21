@@ -2,7 +2,7 @@
 
 ## I'm a 20-year-old maker, and I love building things.
 
-In my free time, I like to build. Here's a few of my favourite open-source projects:
+In my free time, I like to build. Here are a few of my favorite open-source projects that I built from scratch:
 
 - [Nodejs-whisper](https://github.com/ChetanXpro/nodejs-whisper): nodeJS Bindings for Whisper - the CPU version of OpenAI's Whisper.
 - [Short-video-automation](https://github.com/ChetanXpro/short-video-automation): A short content automation tool, which can generate short videos for YouTube and Instagram.
