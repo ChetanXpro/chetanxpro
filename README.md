@@ -12,4 +12,4 @@ In my free time, I like to build. Here are a few of my favorite open-source proj
 - [focus](https://github.com/ChetanXpro/focus): A CLI tool written in Rust to block distracting websites on the system level for a specific time and help stay focused.
 - [askme](https://github.com/ChetanXpro/askme): A CLI tool written in Go to chat with your PDF data.
 - [Document-AI](https://github.com/ChetanXpro/Document-AI): A tool to extract structured data from a PDF, offering a good open-source alternative to Google's Document AI.
-- [Superbridge-Dashboard](https://github.com/ChetanXpro/superbridge-dashboard): Track and update all your bridge transaction limits for all supported tokens across your App chain.
+- [Superbridge-Dashboard](https://github.com/ChetanXpro/superbridge-dashboard): Track and update all your blockchain bridge transaction limits for all supported tokens across your App chain.
