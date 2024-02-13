@@ -2,8 +2,6 @@
 
 ## I'm a 20-year-old maker, and I love building things.
 
-Currently, I am learning more about the pay-as-you-go pricing model, as this model is very efficient
-
 In my free time, I like to build. Here are a few of my favorite open-source projects that I built from scratch:
 
 - [Nodejs-whisper](https://github.com/ChetanXpro/nodejs-whisper): nodeJS Bindings for Whisper - the CPU version of OpenAI's Whisper.
