@@ -13,5 +13,5 @@ In my free time, I like to build. Here are a few of my favorite open-source proj
 - [askme](https://github.com/ChetanXpro/askme): A CLI tool written in Go to chat with your PDF data.
 - [Document-AI](https://github.com/ChetanXpro/Document-AI): A tool to extract structured data from a PDF, offering a good open-source alternative to Google's Document AI.
 - [Superbridge-Dashboard](https://github.com/ChetanXpro/superbridge-dashboard): Track and update blockchain bridge transaction limits for supported tokens on your App chain.
-- [VideoSanitizer](https://github.com/ChetanXpro/VideoSanitizer): 🎥 VideoSanitizer automatically censors or mutes explicit content in videos using AI.
+- [VideoSanitizer](https://github.com/ChetanXpro/VideoSanitizer): VideoSanitizer automatically censors or mutes explicit content in videos using AI.
 - [autosub](https://github.com/ChetanXpro/autosub): Automatically generate and overlay subtitles for any video.
