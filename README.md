@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## I'm a 20-year-old maker, and I love building things.
+## I'm a 21-year-old maker, and I love building things.
 
 Currently, I am learning more about Perpetual Contracts.
 
