@@ -17,3 +17,4 @@ In my free time, I like to build. Here are a few of my favorite open-source proj
 - [Superbridge-Dashboard](https://github.com/ChetanXpro/superbridge-dashboard): Track and update blockchain bridge transaction limits for supported tokens on your App chain.
 - [VideoSanitizer](https://github.com/ChetanXpro/VideoSanitizer): VideoSanitizer automatically censors or mutes explicit content in videos using AI.
 - [autosub](https://github.com/ChetanXpro/autosub): Automatically generate and overlay subtitles for any video.
+- [Event-Pilot](https://github.com/ChetanXpro/event-pilot): A real-time monitoring tool leveraging Kafka and MongoDB to offer scalable and efficient event analysis.
