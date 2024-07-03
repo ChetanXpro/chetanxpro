@@ -2,7 +2,7 @@
 
 ## I'm a 21-year-old maker, and I love building things.
 
-Currently, I am learning more about Perpetual Contracts.
+Currently, I am learning some low level stuff.
 
 In my free time, I like to build. Here are a few of my favorite open-source projects that I built from scratch:
 
