@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## I'm a 21-year-old maker, and I love building things.
+## I'm a 21-year-old maker.
 
-Currently, I am learning some low level stuff.
+Currently, I am learning some maths.
 
 In my free time, I like to build. Here are a few of my favorite open-source projects that I built from scratch:
 
