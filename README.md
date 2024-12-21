@@ -7,7 +7,7 @@ Currently, I am learning some math.
 In my free time, I like to build. Here are a few of my favorite open-source projects that I built from scratch:
 
 - [Nodejs-whisper](https://github.com/ChetanXpro/nodejs-whisper): nodeJS Bindings for Whisper - the CPU version of OpenAI's Whisper.
-- [Short-video-automation](https://github.com/ChetanXpro/short-video-automation): A short content automation tool which use AI and can generate short videos for YouTube and Instagram.
+- [Short-video-automation](https://github.com/ChetanXpro/short-video-automation): A short content automation tool which use AI and can generate short videos for YouTube and Instagram. (Got more than 6 million views with generated videos)
 - [video-transcoding-service](https://github.com/ChetanXpro/video-transcoding-service): A serverless video transcoding service which can run on AWS ECS and Lambda.
 - [AI telegram bot](https://github.com/ChetanXpro/chatgpt-telegram-bot): A Telegram Chat bot that sends you pictures in addition to responding to your questions, and text to speech.
 - [LaunchKit](https://github.com/ChetanXpro/LaunchKit): A Next.js template, featuring stripe, database, authentication, and email functionality integration.
