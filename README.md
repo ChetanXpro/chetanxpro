@@ -2,7 +2,7 @@
 
 ## I'm a 21-year-old maker.
 
-Currently, I am learning some math.
+Currently, I am learning more about distributed systems and infra.
 
 In my free time, I like to build. Here are a few of my favorite open-source projects that I built from scratch:
 
