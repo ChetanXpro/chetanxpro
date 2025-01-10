@@ -5,7 +5,7 @@ In my free time, I like to build. Here are a few of my favorite open-source proj
 - [Nodejs-whisper](https://github.com/ChetanXpro/nodejs-whisper): nodeJS Bindings for Whisper - the CPU version of OpenAI's Whisper.
 - [Short-video-automation](https://github.com/ChetanXpro/short-video-automation): AI tool that automates viral shorts for YouTube & Instagram (6M+ views)
 - [mapsforge-rs](https://github.com/ChetanXpro/mapsforge-rs): A Rust parser for Mapsforge binary map 
-- [diy-gps](https://github.com/ChetanXpro/diy-gps): A Complete assembly guide and code of low-cost DIY GPS navigator that displays real-time location, speed, altitude, and time.
+- [diy-gps](https://github.com/ChetanXpro/diy-gps): A assembly guide and code of low-cost DIY GPS navigator that displays real-time location, speed, altitude, and time.
 - [video-transcoding-service](https://github.com/ChetanXpro/video-transcoding-service): A serverless video transcoding service which can run on AWS ECS and Lambda.
 - [rustis](https://github.com/ChetanXpro/rustis): A minimal Redis-compatible server implemented in Rust, utilizing no external dependencies for core functionality.
 - [Novum](https://github.com/ChetanXpro/Novum): HLS streaming platform with adaptive quality and multi-bitrate transcoding
