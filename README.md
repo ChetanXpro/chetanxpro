@@ -23,4 +23,4 @@ In my free time, I like to build. Here are a few of my favorite open-source proj
 ## Open Source Contributions
 - [TensorZero](https://github.com/tensorzero/tensorzero/pulls?q=is%3Apr+is%3Aclosed+author%3AChetanXpro): It creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster models.
 - [sshx](https://github.com/ekzhang/sshx/pulls?q=is%3Apr+author%3AChetanXpro+is%3Aclosed): Its a Fast, globally distributed, collaborative live terminal sharing over the web.
-- [nushell](https://github.com/nushell/nushell/pulls?q=is%3Apr+is%3Aclosed+author%3AChetanXpro): A new type of shell
+- [nushell](https://github.com/nushell/nushell/pulls?q=is%3Apr+is%3Aclosed+author%3AChetanXpro): Modern shell written in Rust with structured data manipulation and pipelines
