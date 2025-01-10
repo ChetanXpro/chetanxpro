@@ -1,11 +1,7 @@
 # Hi there 👋
-
 ## I'm a 21-year-old maker.
-
 Currently, I am learning more about distributed systems and infra.
-
 In my free time, I like to build. Here are a few of my favorite open-source projects that I built from scratch:
-
 - [Nodejs-whisper](https://github.com/ChetanXpro/nodejs-whisper): nodeJS Bindings for Whisper - the CPU version of OpenAI's Whisper.
 - [Short-video-automation](https://github.com/ChetanXpro/short-video-automation): AI tool that automates viral shorts for YouTube & Instagram (6M+ views)
 - [mapsforge-rs](https://github.com/ChetanXpro/mapsforge-rs): A Rust parser for Mapsforge binary map files
@@ -24,3 +20,7 @@ In my free time, I like to build. Here are a few of my favorite open-source proj
 - [diy-gps](https://github.com/ChetanXpro/diy-gps): A Complete assembly guide and code of low-cost DIY GPS navigator built with ESP32 that displays real-time location, speed, altitude, and time.
 - [Novum](https://github.com/ChetanXpro/Novum): HLS streaming platform with adaptive quality and multi-bitrate transcoding
 
+## Open Source Contributions
+- [TensorZero](https://github.com/tensorzero/tensorzero/pulls?q=is%3Apr+is%3Aclosed+author%3AChetanXpro): It creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster models.
+- [sshx](https://github.com/ekzhang/sshx/pulls?q=is%3Apr+author%3AChetanXpro+is%3Aclosed): Its a Fast, globally distributed, collaborative live terminal sharing over the web.
+- [nushell](https://github.com/nushell/nushell/pulls?q=is%3Apr+is%3Aclosed+author%3AChetanXpro): A new type of shell
