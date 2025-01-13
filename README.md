@@ -2,7 +2,7 @@
 ## I'm a 21-year-old maker.
 Currently, I am learning more about distributed systems and infra.
 In my free time, I like to build. Here are a few of my favorite open-source projects that I built from scratch:
-- [Nodejs-whisper](https://github.com/ChetanXpro/nodejs-whisper): nodeJS Bindings for Whisper - the CPU version of OpenAI's Whisper (15K+ weekly downloads)
+- [Nodejs-whisper](https://github.com/ChetanXpro/nodejs-whisper): nodeJS Bindings for Whisper - the CPU version of OpenAI's Whisper (18K+ weekly downloads)
 - [Short-video-automation](https://github.com/ChetanXpro/short-video-automation): AI tool that automates viral shorts for YouTube & Instagram (6M+ views)
 - [mapsforge-rs](https://github.com/ChetanXpro/mapsforge-rs): A Rust parser for Mapsforge binary map 
 - [diy-gps](https://github.com/ChetanXpro/diy-gps): A assembly guide and code of low-cost DIY GPS navigator that displays real-time location, speed, altitude, and time.
