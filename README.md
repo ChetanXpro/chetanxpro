@@ -20,8 +20,3 @@ In my free time, I like to build. Here are a few of my favorite open-source proj
 - [event-pilot](https://github.com/ChetanXpro/event-pilot): A real-time monitoring tool use Kafka and MongoDB to offer scalable and efficient event analysis.
 - [AI telegram bot](https://github.com/ChetanXpro/chatgpt-telegram-bot): A Telegram Chat bot that sends you pictures in addition to responding to your questions, and text to speech.
 
-
-## Open Source Contributions
-- [TensorZero](https://github.com/tensorzero/tensorzero/pulls?q=is%3Apr+is%3Aclosed+author%3AChetanXpro): It creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster models.
-- [sshx](https://github.com/ekzhang/sshx/pulls?q=is%3Apr+author%3AChetanXpro+is%3Aclosed): Its a Fast, globally distributed, collaborative live terminal sharing over the web.
-- [nushell](https://github.com/nushell/nushell/pulls?q=is%3Apr+is%3Aclosed+author%3AChetanXpro): Modern shell written in Rust with structured data manipulation and pipelines
