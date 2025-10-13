@@ -1,5 +1,5 @@
 # Hi there 👋
-## I'm a 21-year-old maker.
+
 Currently, I am learning more about distributed systems and infra.
 In my free time, I like to build. Here are a few of my favorite open-source projects that I built from scratch:
 - [Nodejs-whisper](https://github.com/ChetanXpro/nodejs-whisper): nodeJS Bindings for Whisper - the CPU version of OpenAI's Whisper (18K+ weekly downloads)
@@ -19,4 +19,5 @@ In my free time, I like to build. Here are a few of my favorite open-source proj
 - [autosub](https://github.com/ChetanXpro/autosub): Automatically generate and overlay subtitles for any video using open source whisper model.
 - [event-pilot](https://github.com/ChetanXpro/event-pilot): A real-time monitoring tool use Kafka and MongoDB to offer scalable and efficient event analysis.
 - [AI telegram bot](https://github.com/ChetanXpro/chatgpt-telegram-bot): A Telegram Chat bot that sends you pictures in addition to responding to your questions, and text to speech.
+
 
