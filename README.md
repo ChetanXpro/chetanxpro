@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Currently, I am learning more about distributed systems and infra.
+Currently, I am learning more about low level systems.
 In my free time, I like to build. Here are a few of my favorite open-source projects that I built from scratch:
 - [Nodejs-whisper](https://github.com/ChetanXpro/nodejs-whisper): nodeJS Bindings for Whisper - the CPU version of OpenAI's Whisper (18K+ weekly downloads)
 - [Short-video-automation](https://github.com/ChetanXpro/short-video-automation): AI tool that automates viral shorts for YouTube & Instagram (6M+ views)
